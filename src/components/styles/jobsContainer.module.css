@@ -1,0 +1,27 @@
+.jobsContainer{
+    border: 1px solid black;
+    width: 99.4%;
+    height: 75.6%;
+    background: #fff;
+    display: flex;
+    justify-content: space-around;
+    box-sizing: border-box;
+}
+.innerRow{
+    display: flex;
+    align-items: center;
+}
+.imgIcon{
+    height: 51px;
+}
+.borderLine{
+    border-right: 1px solid red;
+}
+.innerImgDiv{
+    border-right: 1px solid red;
+    width: 8.125em;
+}
+.jobDiv{
+    display: flex;
+    justify-content: space-between;
+}

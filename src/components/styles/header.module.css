@@ -1,0 +1,34 @@
+.headerLayout{
+    
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between;
+    /* margin-left: 8.75%; */
+    height: 7.2%;
+    padding: 1.87em;
+    margin: 0 8.75em;
+
+}
+.Hiring{
+    display: flex;
+    margin-top: 20px;
+    padding: 20px;
+    margin-left: 7.5em;
+}
+.Role{
+    font-weight: 500;
+}
+.logoImg{
+    height:40px;
+}
+.selectEle{
+    border: none;
+    color: #29b2f9;
+    height: 20px;
+}
+.headerContent{
+    display: flex;
+    justify-content: space-between;
+    width: 13.37%;
+    align-items: center;
+}
